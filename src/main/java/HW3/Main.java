@@ -28,7 +28,7 @@ public class Main {
         studentCourse.initialStudentCourse(1,0,2);
         studentCourse.initialStudentCourse(2,2,5);
         //endregion
-
+        System.out.println("git");
         while (true) {
 
 
